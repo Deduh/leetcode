@@ -7,4 +7,6 @@ func main() {
 	s1 := "XXXIV"
 	romanToInt(s1)
 
+	s2 := "{[]}({})"
+	isValid(s2)
 }
